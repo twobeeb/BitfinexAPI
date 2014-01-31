@@ -4,6 +4,7 @@ BitfinexAPI
 C# Implementation of Bitfinex trade API
 
 Author : Julien Chanaud julien.chanaud[at]supinfo[dot]com
+
 Donations are welcome : 1CkPaeHH2AQL5wipZeJVChGQuKAechAV7d
 
 Usage
